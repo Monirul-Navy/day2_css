@@ -1,0 +1,19 @@
+h3{
+  color: magenta;
+}
+p{
+  color: violet;
+}
+header{
+  height: 60px;
+  background-image: url(../images/nature.jfif);
+  background-repeat: repeat-x;
+  background-position: top-right;
+  background-size: cover;
+}
+header>ul>li{
+  display:inline-flex;
+  text-decoration:overline;
+  color: red;
+
+}
